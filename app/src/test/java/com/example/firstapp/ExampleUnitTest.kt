@@ -1,4 +1,4 @@
-package com.example.hellowolrld
+package com.example.firstapp
 
 import org.junit.Test
 
